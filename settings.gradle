@@ -1,0 +1,3 @@
+rootProject.name = "CloudPlugins"
+include ':app'
+include ':sdk'
