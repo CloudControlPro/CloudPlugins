@@ -1,10 +1,5 @@
 <resources>
-    <string name="app_name">EasyLibrary</string>
-    <string name="date_time_tip">DateTime</string>
-    <string name="shared_pere_tip">SharedPere</string>
-    <string name="regex_used_tip">RegexUsed</string>
-    <string name="toast_used_tip">ToastUsed</string>
-    <string name="app_info_tip">AppInfo</string>
-    <string name="app_logcat">Logcat</string>
-    <string name="app_intent_tip">Intent</string>
+    <string name="app_name">My Application</string>
+    <string name="tv_one">想学</string>
+    <string name="vb_boot">按钮</string>
 </resources>
